@@ -27,9 +27,9 @@ b. In the Package Manager window, find and click the + button in the upper lefth
 
 c . Enter the git URL for the desired package. Note: you can append a version tag to the end of the git url, like #v0.4.0 or #v0.5.0, to declare a specific package version, or exclude the tag to get the latest from the package's main branch.
 
-  i.For the ROS-TCP-Connector, enter``` https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.ros-tcp-connector```.
+  i. For the ROS-TCP-Connector, enter``` https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.ros-tcp-connector```.
 
-  ii.For Visualizations, enter https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.visualizations.
+  ii. For Visualizations, enter https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.visualizations.
 
 d .Click Add.
 
