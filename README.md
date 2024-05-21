@@ -23,9 +23,11 @@ image ```
 
 c . Enter the git URL for the desired package. Note: you can append a version tag to the end of the git url, like #v0.4.0 or #v0.5.0, to declare a specific package version, or exclude the tag to get the latest from the package's main branch.
 
-d. For the ROS-TCP-Connector, enter ``` https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.ros-tcp-connector```.
-g. For Visualizations, enter https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.visualizations.
-e .Click Add.
+  i.For the ROS-TCP-Connector, enter``` https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.ros-tcp-connector```.
 
-To install from a local clone of the repository, see installing a local package in the Unity manual.
+  ii.For Visualizations, enter https://github.com/Unity-Technologies/ROS-TCP-Connector.git?path=/com.unity.robotics.visualizations.
+
+d .Click Add.
+
+To install from a local clone of the repository, see [installing a local package](https://docs.unity3d.com/Manual/upm-ui-local.html) in the Unity manual.
 
