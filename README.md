@@ -6,7 +6,7 @@
 a. Adding the URDF package
 Open the Package Manager from Unity Menu. Click Window -> Package Manager. A new package manager window will appear.
 
-b. Click on the + sign on the top left corner of the package manager window and click on $${\color{red}Add \space Package \space from \space Git \space URL}$$
+b. Click on the + sign on the top left corner of the package manager window and click on {\color{red}Add \space Package \space from \space Git \space URL}
 ![image](https://github.com/AIALab-TeamAI/New_Digital_Twin/assets/58129562/6368b1e7-7c03-497a-a97d-6eb8091e2a51)
 
 c. Enter the git URL for the URDF Importer with the latest version tag (currently v0.5.2)
