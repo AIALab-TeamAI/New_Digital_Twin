@@ -3,8 +3,9 @@
 
 ### 1.1. Installation and implementation - URDF files importer at [here](https://github.com/Unity-Technologies/URDF-Importer)
 
-${\color{green}a. Adding the URDF package}$
-Open the Package Manager from Unity Menu. Click Window -> Package Manager. A new package manager window will appear.
+${\color{green}Adding \space the \space URDF \space package}$
+
+a. Open the Package Manager from Unity Menu. Click Window -> Package Manager. A new package manager window will appear.
 
 b. Click on the + sign on the top left corner of the package manager window and click on ${\color{red}Add \space Package \space from \space Git \space URL.}$
 
@@ -20,7 +21,7 @@ d. Click Import URDF
 
 a. Using Unity 2020.2 or later, open the Package Manager from Window -> Package Manager.
 
-b. In the Package Manager window, find and click the + button in the upper lefthand corner of the window. Select ${\color{red}Add \space package \space from \space git \space URL \space .... \space image. }$
+b. In the Package Manager window, find and click the + button in the upper lefthand corner of the window. Select${\color{red}Add \space package \space from \space git \space URL \space .... \space image.}$
 
 ![image](https://github.com/AIALab-TeamAI/New_Digital_Twin/assets/58129562/5dfc62e5-3b46-4d35-b16a-a32ad5940c45)
 
