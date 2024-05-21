@@ -21,7 +21,7 @@ d. Click Import URDF
 
 a. Using Unity 2020.2 or later, open the Package Manager from Window -> Package Manager.
 
-b. In the Package Manager window, find and click the + button in the upper lefthand corner of the window. Select${\color{red}Add \space package \space from \space git \space URL \space .... \space image.}$
+b. In the Package Manager window, find and click the + button in the upper lefthand corner of the window. Select ${\color{red}Add \space package \space from \space git \space URL \space .... \space image.}$
 
 ![image](https://github.com/AIALab-TeamAI/New_Digital_Twin/assets/58129562/5dfc62e5-3b46-4d35-b16a-a32ad5940c45)
 
