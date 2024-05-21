@@ -20,8 +20,8 @@ d. Click Import URDF
 
 a. Using Unity 2020.2 or later, open the Package Manager from Window -> Package Manager.
 
-b. In the Package Manager window, find and click the + button in the upper lefthand corner of the window. Select ``` Add package from git URL....
-image ```
+b. In the Package Manager window, find and click the + button in the upper lefthand corner of the window. Select ${\color{red}Add /space package /space from /space git /space URL /space .... /space image. }$
+
 ![image](https://github.com/AIALab-TeamAI/New_Digital_Twin/assets/58129562/5dfc62e5-3b46-4d35-b16a-a32ad5940c45)
 
 c . Enter the git URL for the desired package. Note: you can append a version tag to the end of the git url, like #v0.4.0 or #v0.5.0, to declare a specific package version, or exclude the tag to get the latest from the package's main branch.
