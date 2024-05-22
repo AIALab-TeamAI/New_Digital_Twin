@@ -1,6 +1,6 @@
-# ${\color{red}New \SPACE Digital \SPACE Twin}$
-# I. INSTALLATION AND SETUP
-## 1. SETUP UNITY3D ENVIRONMENT
+# ${\color{red}New \space Digital \space Twin}$
+# ${\color{blue}I.\space INSTALLATION \space AND \space SETUP}$
+## ${\color{green}1.\space SETUP \space UNITY3D \space ENVIRONMENT}$
 
 ### 1.1. Installation and implementation - URDF files importer at [here](https://github.com/Unity-Technologies/URDF-Importer)
 
