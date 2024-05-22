@@ -1,4 +1,4 @@
-# New_Digital_Twin
+# ${\color{red}New \SPACE Digital \SPACE Twin}$
 # I. INSTALLATION AND SETUP
 ## 1. SETUP UNITY3D ENVIRONMENT
 
