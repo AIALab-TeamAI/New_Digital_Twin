@@ -36,3 +36,5 @@ d .Click Add.
 
 To install from a local clone of the repository, see [installing a local package](https://docs.unity3d.com/Manual/upm-ui-local.html) in the Unity manual.
 
+### Referrence
+1. [Digital Twin - 6-axis Industrial Robot](https://github.com/yudhisteer/Digital-Twin-of-Anthropomorphic-Robotic-Arm)
